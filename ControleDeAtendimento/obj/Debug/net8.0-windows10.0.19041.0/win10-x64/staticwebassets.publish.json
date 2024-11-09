@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iNpK5fBaULttHCfUG6RYR1iPw6fXORbEEAFnxyjLKk4=",
+  "Hash": "6ayAOr+XHFCi99T+MjZVMJbj3DIk0DA0CTFiScSy97E=",
   "Source": "ControleDeAtendimento",
   "BasePath": "/",
   "Mode": "Root",
@@ -10,17 +10,17 @@
     {
       "Name": "ControleDeAtendimento\\wwwroot",
       "Source": "ControleDeAtendimento",
-      "ContentRoot": "C:\\Users\\GRFreire\\Documents\\POO_C_SHARP\\TESTE\\ControleDeAtendimento\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\ControleDeAtendimento\\wwwroot\\",
       "BasePath": "/",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\GRFreire\\Documents\\POO_C_SHARP\\TESTE\\ControleDeAtendimento\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\ControleDeAtendimento.styles.css",
+      "Identity": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\ControleDeAtendimento\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\ControleDeAtendimento.styles.css",
       "SourceId": "ControleDeAtendimento",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\GRFreire\\Documents\\POO_C_SHARP\\TESTE\\ControleDeAtendimento\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\ControleDeAtendimento\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\",
       "BasePath": "/",
       "RelativePath": "ControleDeAtendimento.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\GRFreire\\Documents\\POO_C_SHARP\\TESTE\\ControleDeAtendimento\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\ControleDeAtendimento.styles.css"
+      "OriginalItemSpec": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\ControleDeAtendimento\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\ControleDeAtendimento.styles.css"
     },
     {
-      "Identity": "C:\\Users\\GRFreire\\Documents\\POO_C_SHARP\\TESTE\\ControleDeAtendimento\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\ControleDeAtendimento.bundle.scp.css",
+      "Identity": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\ControleDeAtendimento\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\ControleDeAtendimento.bundle.scp.css",
       "SourceId": "ControleDeAtendimento",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\GRFreire\\Documents\\POO_C_SHARP\\TESTE\\ControleDeAtendimento\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\ControleDeAtendimento\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\",
       "BasePath": "/",
       "RelativePath": "ControleDeAtendimento.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\GRFreire\\Documents\\POO_C_SHARP\\TESTE\\ControleDeAtendimento\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\ControleDeAtendimento.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\ControleDeAtendimento\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\projectbundle\\ControleDeAtendimento.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\GRFreire\\Documents\\POO_C_SHARP\\TESTE\\ControleDeAtendimento\\wwwroot\\css\\app.css",
+      "Identity": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\ControleDeAtendimento\\wwwroot\\css\\app.css",
       "SourceId": "ControleDeAtendimento",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GRFreire\\Documents\\POO_C_SHARP\\TESTE\\ControleDeAtendimento\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\ControleDeAtendimento\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\app.css"
     },
     {
-      "Identity": "C:\\Users\\GRFreire\\Documents\\POO_C_SHARP\\TESTE\\ControleDeAtendimento\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\ControleDeAtendimento\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "ControleDeAtendimento",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GRFreire\\Documents\\POO_C_SHARP\\TESTE\\ControleDeAtendimento\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\ControleDeAtendimento\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\GRFreire\\Documents\\POO_C_SHARP\\TESTE\\ControleDeAtendimento\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\ControleDeAtendimento\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "ControleDeAtendimento",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GRFreire\\Documents\\POO_C_SHARP\\TESTE\\ControleDeAtendimento\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\ControleDeAtendimento\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\GRFreire\\Documents\\POO_C_SHARP\\TESTE\\ControleDeAtendimento\\wwwroot\\css\\tailwind\\tailwind.min.css",
+      "Identity": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\ControleDeAtendimento\\wwwroot\\css\\tailwind\\tailwind.min.css",
       "SourceId": "ControleDeAtendimento",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GRFreire\\Documents\\POO_C_SHARP\\TESTE\\ControleDeAtendimento\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\ControleDeAtendimento\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/tailwind/tailwind.min.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\tailwind\\tailwind.min.css"
     },
     {
-      "Identity": "C:\\Users\\GRFreire\\Documents\\POO_C_SHARP\\TESTE\\ControleDeAtendimento\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\ControleDeAtendimento\\wwwroot\\favicon.png",
       "SourceId": "ControleDeAtendimento",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GRFreire\\Documents\\POO_C_SHARP\\TESTE\\ControleDeAtendimento\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\ControleDeAtendimento\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\GRFreire\\Documents\\POO_C_SHARP\\TESTE\\ControleDeAtendimento\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\ControleDeAtendimento\\wwwroot\\index.html",
       "SourceId": "ControleDeAtendimento",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\GRFreire\\Documents\\POO_C_SHARP\\TESTE\\ControleDeAtendimento\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\ControleDeAtendimento\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "index.html",
       "AssetKind": "All",

@@ -1,6 +1,8 @@
-namespace ControleDeAtendimento
-{
-    public class Fila
+using System;
+
+namespace Models;
+
+public class Fila
     {
         // Atributos
         public required Servico Servico { get; set; }
@@ -22,5 +24,3 @@ namespace ControleDeAtendimento
             return Senhas.Count > 0 ? Senhas.Dequeue() : null;
         }
     }
-}
-

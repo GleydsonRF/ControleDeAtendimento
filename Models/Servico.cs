@@ -1,3 +1,7 @@
+using System;
+
+namespace Models;
+
 public class Servico
 {
     // Atributos

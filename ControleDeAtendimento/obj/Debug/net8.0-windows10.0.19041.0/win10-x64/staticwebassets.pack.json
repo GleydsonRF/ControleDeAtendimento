@@ -1,31 +1,31 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\GRFreire\\Documents\\POO_C_SHARP\\TESTE\\ControleDeAtendimento\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\ControleDeAtendimento.styles.css",
+      "Id": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\ControleDeAtendimento\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\ControleDeAtendimento.styles.css",
       "PackagePath": "staticwebassets\\ControleDeAtendimento.styles.css"
     },
     {
-      "Id": "C:\\Users\\GRFreire\\Documents\\POO_C_SHARP\\TESTE\\ControleDeAtendimento\\wwwroot\\css\\app.css",
+      "Id": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\ControleDeAtendimento\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\GRFreire\\Documents\\POO_C_SHARP\\TESTE\\ControleDeAtendimento\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\ControleDeAtendimento\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\GRFreire\\Documents\\POO_C_SHARP\\TESTE\\ControleDeAtendimento\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\ControleDeAtendimento\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\GRFreire\\Documents\\POO_C_SHARP\\TESTE\\ControleDeAtendimento\\wwwroot\\css\\tailwind\\tailwind.min.css",
+      "Id": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\ControleDeAtendimento\\wwwroot\\css\\tailwind\\tailwind.min.css",
       "PackagePath": "staticwebassets\\css\\tailwind\\tailwind.min.css"
     },
     {
-      "Id": "C:\\Users\\GRFreire\\Documents\\POO_C_SHARP\\TESTE\\ControleDeAtendimento\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\ControleDeAtendimento\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\GRFreire\\Documents\\POO_C_SHARP\\TESTE\\ControleDeAtendimento\\wwwroot\\index.html",
+      "Id": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\ControleDeAtendimento\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {

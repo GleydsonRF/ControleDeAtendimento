@@ -45182,11 +45182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GRFreire\\Documents\\POO_C_SHARP\\TESTE\\ControleDeAtendimento\\ControleDeAtendimento.csproj",
+      "projectUniqueName": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\ControleDeAtendimento\\ControleDeAtendimento.csproj",
       "projectName": "ControleDeAtendimento",
-      "projectPath": "C:\\Users\\GRFreire\\Documents\\POO_C_SHARP\\TESTE\\ControleDeAtendimento\\ControleDeAtendimento.csproj",
+      "projectPath": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\ControleDeAtendimento\\ControleDeAtendimento.csproj",
       "packagesPath": "C:\\Users\\GRFreire\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GRFreire\\Documents\\POO_C_SHARP\\TESTE\\ControleDeAtendimento\\obj\\",
+      "outputPath": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\ControleDeAtendimento\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [
