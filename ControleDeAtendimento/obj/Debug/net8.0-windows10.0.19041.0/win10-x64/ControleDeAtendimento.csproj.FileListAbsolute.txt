@@ -999,3 +999,12 @@ C:\Users\GRFreire\Documents\GitHub\ControleDeAtendimento\ControleDeAtendimento\o
 C:\Users\GRFreire\Documents\GitHub\ControleDeAtendimento\ControleDeAtendimento\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt
 C:\Users\GRFreire\Documents\GitHub\ControleDeAtendimento\ControleDeAtendimento\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\GRFreire\Documents\GitHub\ControleDeAtendimento\ControleDeAtendimento\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\GRFreire\Documents\GitHub\ControleDeAtendimento\ControleDeAtendimento\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Models.dll
+C:\Users\GRFreire\Documents\GitHub\ControleDeAtendimento\ControleDeAtendimento\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Models.pdb
+C:\Users\GRFreire\Documents\GitHub\ControleDeAtendimento\ControleDeAtendimento\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.batteries_v2.dll
+C:\Users\GRFreire\Documents\GitHub\ControleDeAtendimento\ControleDeAtendimento\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.core.dll
+C:\Users\GRFreire\Documents\GitHub\ControleDeAtendimento\ControleDeAtendimento\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\GRFreire\Documents\GitHub\ControleDeAtendimento\ControleDeAtendimento\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\e_sqlite3.dll
+C:\Users\GRFreire\Documents\GitHub\ControleDeAtendimento\ControleDeAtendimento\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Data.Sqlite.dll
+C:\Users\GRFreire\Documents\GitHub\ControleDeAtendimento\ControleDeAtendimento\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Persistence.dll
+C:\Users\GRFreire\Documents\GitHub\ControleDeAtendimento\ControleDeAtendimento\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Persistence.pdb

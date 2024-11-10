@@ -33,6 +33,9 @@
             "projectReferences": {
               "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\Models\\Models.csproj": {
                 "projectPath": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\Models\\Models.csproj"
+              },
+              "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\Persistence\\Persistence.csproj"
               }
             }
           },
@@ -41,6 +44,9 @@
             "projectReferences": {
               "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\Models\\Models.csproj": {
                 "projectPath": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\Models\\Models.csproj"
+              },
+              "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\Persistence\\Persistence.csproj"
               }
             }
           },
@@ -49,6 +55,9 @@
             "projectReferences": {
               "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\Models\\Models.csproj": {
                 "projectPath": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\Models\\Models.csproj"
+              },
+              "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\Persistence\\Persistence.csproj"
               }
             }
           },
@@ -57,6 +66,9 @@
             "projectReferences": {
               "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\Models\\Models.csproj": {
                 "projectPath": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\Models\\Models.csproj"
+              },
+              "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -97,6 +109,10 @@
               "target": "Package",
               "version": "[8.0.10, )",
               "autoReferenced": true
+            },
+            "SQLitePCLRaw.bundle_e_sqlite3": {
+              "target": "Package",
+              "version": "[2.1.10, )"
             }
           },
           "imports": [
@@ -144,6 +160,10 @@
               "target": "Package",
               "version": "[8.0.10, )",
               "autoReferenced": true
+            },
+            "SQLitePCLRaw.bundle_e_sqlite3": {
+              "target": "Package",
+              "version": "[2.1.10, )"
             }
           },
           "imports": [
@@ -191,6 +211,10 @@
               "target": "Package",
               "version": "[8.0.10, )",
               "autoReferenced": true
+            },
+            "SQLitePCLRaw.bundle_e_sqlite3": {
+              "target": "Package",
+              "version": "[2.1.10, )"
             }
           },
           "imports": [
@@ -233,6 +257,10 @@
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
               "version": "[8.0.82, )"
+            },
+            "SQLitePCLRaw.bundle_e_sqlite3": {
+              "target": "Package",
+              "version": "[2.1.10, )"
             }
           },
           "imports": [
@@ -326,6 +354,75 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\Persistence\\Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\Persistence\\Persistence.csproj",
+        "projectName": "Persistence",
+        "projectPath": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\GRFreire\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\GRFreire\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\GRFreire\\Documents\\GitHub\\ControleDeAtendimento\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.Sqlite.Core": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

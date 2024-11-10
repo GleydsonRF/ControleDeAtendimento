@@ -5,10 +5,11 @@ namespace Models;
 public class Usuario
 {
     // Atributos
-    public required string NomeDeUsuario { get; set; }
-    public required string Senha { get; set; }
-    public required string Nome { get; set; }
-    public required string SobreNome { get; set; }
+    public int Id { get; set; }
+    public string NomeDeUsuario { get; set; }
+    public string Senha { get; set; }
+    public string Nome { get; set; }
+    public string SobreNome { get; set; }
     private Dictionary<string, bool> niveisDeAcesso = new Dictionary<string, bool>();
 
     // Métodos
