@@ -178,3 +178,11 @@ main[b-ba2wivxaod] {
         overflow-y: auto;
     }
 }
+/* /Components/Layout/SimplePage/SimplePage.razor.rz.scp.css */
+.page[b-eojgfl4vph] {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100vh;
+}
